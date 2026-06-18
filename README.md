@@ -24,4 +24,4 @@ Undergraduate B.Sc. CSIT student at Patan Multiple Campus passionate about data 
 * **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Beautiful Soup
 * **Tools:** Git, GitHub, Jupyter Notebook, VS Code, Power BI, Streamlit
 
-📫 **Connect with me:** [LinkedIn Profile](https://linkedin.com)
+📫 **Connect with me:** [LinkedIn Profile](www.linkedin.com/in/angel-mainali-a07651365)
